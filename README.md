@@ -20,10 +20,10 @@ Manually resolved by combining both features into final version.
 ## 📸 Proof of Conflict
 
 ### 🔹 Conflict Detected
-![Conflict](./screenshots/conflict.png)
+https://github.com/AgentScarletFox/merge-conflict-master/blob/main/screenshots/conflicts.png
 
 ### 🔹 Conflict Editor
-![Editor](./screenshots/editor.png)
+https://github.com/AgentScarletFox/merge-conflict-master/blob/main/screenshots/conflict%20correction.png
 
 ### 🔹 Final Result
-![Final](./screenshots/final.png)
+https://github.com/AgentScarletFox/merge-conflict-master/blob/main/screenshots/merged.png
