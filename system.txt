@@ -1,6 +1,7 @@
-AI System Core
+AI System Core - Version A
 
 Modules:
 - Data Processing
 - Model Training
 - Evaluation
+- Logging System
