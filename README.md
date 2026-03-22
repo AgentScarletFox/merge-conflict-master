@@ -20,3 +20,6 @@ Conflicts were manually resolved by combining both changes logically.
 
 ## 📊 Outcome
 This project proves the ability to handle real-world Git conflicts.
+
+## Version B Change
+This change was made in branch-B
