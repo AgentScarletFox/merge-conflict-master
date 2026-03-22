@@ -1,25 +1,29 @@
-# ⚔️ Merge Conflict Master
+---
 
-## 🧠 Objective
-This project demonstrates how merge conflicts occur and how to resolve them manually using GitHub.
+## 💻 Real Conflict Demonstration
 
-## ⚠️ What is a Merge Conflict?
-A merge conflict happens when two branches modify the same part of a file differently.
+This project includes a **real file-level merge conflict simulation**.
 
-## 🔀 Conflict Simulation
-- branch-A modifies content
-- branch-B modifies the same content differently
+### 📂 File Used
+"system.txt"
 
-## 🛠️ Resolution Strategy
-Conflicts were manually resolved by combining both changes logically.
+### ⚔️ Conflict Scenario
+- branch-A added: Logging System  
+- branch-B added: Monitoring System  
+- Both modified the same section → conflict occurred  
 
-## 🧠 What I Learned
-- How merge conflicts occur
-- How to resolve conflicts manually
-- Importance of version control
+### 🛠️ Resolution
+Manually resolved by combining both features into final version.
 
-## 📊 Outcome
-This project proves the ability to handle real-world Git conflicts.
+---
 
-## Version B Change
-This change was made in branch-B
+## 📸 Proof of Conflict
+
+### 🔹 Conflict Detected
+![Conflict](./screenshots/conflict.png)
+
+### 🔹 Conflict Editor
+![Editor](./screenshots/editor.png)
+
+### 🔹 Final Result
+![Final](./screenshots/final.png)
