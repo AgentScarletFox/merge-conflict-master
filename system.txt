@@ -1,0 +1,6 @@
+AI System Core
+
+Modules:
+- Data Processing
+- Model Training
+- Evaluation
