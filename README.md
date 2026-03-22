@@ -9,7 +9,7 @@ A merge conflict happens when two branches modify the same part of a file differ
 ## 🔀 Conflict Simulation
 - branch-A modifies content
 - branch-B modifies the same content differently
-
+ 
 ## 🛠️ Resolution Strategy
 Both changes were combined to preserve information from branch-A and branch-B.
 
